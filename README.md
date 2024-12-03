@@ -11,3 +11,4 @@ it has been a crazy one but God go me.
 
 DEC 02
 Still waiting for an update on the noel project.
+For now i will go back to practicing and building portfolio projects.
