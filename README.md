@@ -10,4 +10,4 @@ Sunday chill day, just some reflection from where i started till today.
 it has been a crazy one but God go me.
 
 DEC 02
-
+Still waiting for an update on the noel project.
