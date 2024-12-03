@@ -5,6 +5,9 @@ THERE IS A LOT TO CONQUER.
 FROM USING A BAD SCREEN TO WORK FOR 4 MOTHNS AND STILL BUILDING PROJECTS REGARDLESS ,  I AM PROUD OF MYSELF , CONSISTENCY REALLY PAYS OFF.
 KEEP GOING , THE GRIND DOESNT STOP!!! GOD HELP ME.
 
-Sun DEC-01
+DEC 01
 Sunday chill day, just some reflection from where i started till today.
 it has been a crazy one but God go me.
+
+DEC 02
+
