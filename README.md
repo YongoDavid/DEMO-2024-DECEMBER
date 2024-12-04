@@ -15,3 +15,4 @@ For now i will go back to practicing and building portfolio projects.
 then i will be updating my portfolio and uploaing more projects on it.
 
 DEC 03
+New day , new grind!
