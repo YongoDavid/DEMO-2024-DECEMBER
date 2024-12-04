@@ -13,3 +13,5 @@ DEC 02
 Still waiting for an update on the noel project.
 For now i will go back to practicing and building portfolio projects.
 then i will be updating my portfolio and uploaing more projects on it.
+
+DEC 03
