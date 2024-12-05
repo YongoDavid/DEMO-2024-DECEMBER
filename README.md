@@ -18,3 +18,5 @@ DEC 03
 New day , new grind!
 i am doing the sammething as yesterday , just practicing more of react.
 and i will be gather new project Ideas for my portfolio projects.
+
+DEC 04
