@@ -20,3 +20,4 @@ i am doing the sammething as yesterday , just practicing more of react.
 and i will be gather new project Ideas for my portfolio projects.
 
 DEC 04
+Working on some new projects that i want to be adding too my portflio.
