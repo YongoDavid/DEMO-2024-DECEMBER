@@ -28,3 +28,4 @@ DEC 07
 New day , new grind!
 i have started working on my new portfolio project.
 this is a web based chat aapplication , and i will be using REACT , Chakra UI , Socket , mongoDB , express and Node.js
+i am starting with the front-end first so lets see how it goes.
