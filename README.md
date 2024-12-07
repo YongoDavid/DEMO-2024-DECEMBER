@@ -26,3 +26,4 @@ i am also taking sometime to practice REACT.
 
 DEC 07
 New day , new grind!
+i have started working on my new portfolio project.
