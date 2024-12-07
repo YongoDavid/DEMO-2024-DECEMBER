@@ -25,3 +25,4 @@ i am looking for project that are unique and apply to the real world.
 i am also taking sometime to practice REACT.
 
 DEC 07
+New day , new grind!
