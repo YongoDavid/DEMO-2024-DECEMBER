@@ -23,3 +23,5 @@ DEC 04
 Working on some new projects that i want to be adding too my portflio.
 i am looking for project that are unique and apply to the real world.
 i am also taking sometime to practice REACT.
+
+DEC 07
