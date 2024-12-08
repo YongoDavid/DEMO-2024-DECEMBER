@@ -36,3 +36,4 @@ i am still working on the front-end for the chat application , it is going well 
 
 DEC 09
 New day , new week lets goooo!!
+i am going to continue practicing REACT and then i will continue with the Chat application project.
