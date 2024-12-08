@@ -33,3 +33,6 @@ i am starting with the front-end first so lets see how it goes.
 DEC 08
 Sunday chill day , but i will still put in some light work.
 i am still working on the front-end for the chat application , it is going well soo far.
+
+DEC 09
+
