@@ -16,7 +16,7 @@ then i will be updating my portfolio and uploaing more projects on it.
 
 DEC 03
 New day , new grind!
-i am doing the sammething as yesterday , just practicing more of react.
+i am doing the samething as yesterday , just practicing more of react.
 and i will be gather new project Ideas for my portfolio projects.
 
 DEC 04
@@ -27,8 +27,9 @@ i am also taking sometime to practice REACT.
 DEC 07
 New day , new grind!
 i have started working on my new portfolio project.
-this is a web based chat aapplication , and i will be using REACT , Chakra UI , Socket , mongoDB , express and Node.js
+this is a web based chat application , and i will be using REACT , Chakra UI , Socket , mongoDB , express and Node.js
 i am starting with the front-end first so lets see how it goes.
 
 DEC 08
 Sunday chill day , but i will still put in some light work.
+i am still working on the front-end for the chat application , it is going well soo far.
