@@ -35,4 +35,4 @@ Sunday chill day , but i will still put in some light work.
 i am still working on the front-end for the chat application , it is going well soo far.
 
 DEC 09
-
+New day , new week lets goooo!!
