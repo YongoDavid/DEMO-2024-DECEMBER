@@ -31,3 +31,4 @@ this is a web based chat aapplication , and i will be using REACT , Chakra UI , 
 i am starting with the front-end first so lets see how it goes.
 
 DEC 08
+Sunday chill day , but i will still put in some light work.
