@@ -40,4 +40,6 @@ i am going to continue practicing REACT and then i will continue with the Chat a
 
 DEC 10
 New day , same grind
-My chat application has been giving alot of dependecy errors.
+My chat application has been giving alot of dependency errors.
+i have tried downgrading my node from v23 to v16 but i am still experiencing thesame issues(well lets see how it goes.
+
