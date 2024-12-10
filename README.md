@@ -40,3 +40,4 @@ i am going to continue practicing REACT and then i will continue with the Chat a
 
 DEC 10
 New day , same grind
+My chat application has been giving alot of dependecy errors.
