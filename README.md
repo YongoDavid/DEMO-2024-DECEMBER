@@ -44,3 +44,4 @@ My chat application has been giving alot of dependency errors.
 i have tried downgrading my node from v23 to v16 but i am still experiencing thesame issues(well lets see how it goes.
 
 DEC 11
+Continue working on the chap application and React practice.
