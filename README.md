@@ -45,3 +45,5 @@ i have tried downgrading my node from v23 to v16 but i am still experiencing the
 
 DEC 11
 Continue working on the chap application and React practice.
+
+DEC 12
