@@ -51,3 +51,4 @@ New day , new grind!
 
 DEC 13
 Another day , another grind!
+i am currently multi-tasking on two different projects Chat app and Safety aid project.
