@@ -48,3 +48,5 @@ Continue working on the chap application and React practice.
 
 DEC 12
 New day , new grind!
+
+DEC 13
