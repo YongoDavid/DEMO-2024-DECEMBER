@@ -55,3 +55,4 @@ i am currently multi-tasking on two different projects Chat app and Safety aid p
 the Chat app has been giving me some issues so lets figure that out and the Safety aid project is going well soo far.
 
 DEC 14
+New day , new grind!!
