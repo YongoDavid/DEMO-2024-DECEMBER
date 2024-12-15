@@ -61,3 +61,4 @@ i have been making more UI changes and the application is looking alright soo fa
 
 DEC 15
 Sunday chill day!
+Not doing much work day.
