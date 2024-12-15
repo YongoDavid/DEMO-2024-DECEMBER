@@ -41,10 +41,10 @@ i am going to continue practicing REACT and then i will continue with the Chat a
 DEC 10
 New day , same grind
 My chat application has been giving alot of dependency errors.
-i have tried downgrading my node from v23 to v16 but i am still experiencing thesame issues(well lets see how it goes.
+i have tried downgrading my node from v23 to v16 but i am still experiencing thesame issues(well lets see how it goes).
 
 DEC 11
-Continue working on the chap application and React practice.
+Continue working on the chat application and React practice.
 
 DEC 12
 New day , new grind!
@@ -56,7 +56,7 @@ the Chat app has been giving me some issues so lets figure that out and the Safe
 
 DEC 14
 New day , new grind!!
-the dependency issue i was having with the chat app has beenn resolved , i had to switch to using yarn instead of npm i uses normally.
+the dependency issue i was having with the chat app has been resolved , i had to switch to using yarn instead of npm i uses normally.
 i have been making more UI changes and the application is looking alright soo far.
 
 DEC 15
@@ -65,3 +65,4 @@ Not doing much work day.
 
 DEEC 16
 New week ,same grind.
+Chat app phase1 is almost done , just  a few touches left.
