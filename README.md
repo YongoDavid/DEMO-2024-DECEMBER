@@ -58,3 +58,6 @@ DEC 14
 New day , new grind!!
 the dependency issue i was having with the chat app has beenn resolved , i had to switch to using yarn instead of npm i uses normally.
 i have been making more UI changes and the application is looking alright soo far.
+
+DEC 15
+
