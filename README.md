@@ -64,3 +64,4 @@ Sunday chill day!
 Not doing much work day.
 
 DEEC 16
+New week ,same grind.
