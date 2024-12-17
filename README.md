@@ -71,3 +71,4 @@ the safety aid is still in progress , i am having a few issues also but it would
 DEC 17
 New day , ar;y morning dose!
 i have made another UI  update on the chat app , i will be leaving the chat app for today and focus on the SAFETY AID project.
+my front-end is not displaying so lets still and solve that and move on from there(lets see how it goes) 
