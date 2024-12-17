@@ -67,3 +67,5 @@ DEEC 16
 New week ,same grind.
 Chat app phase1 is almost done , just  a few touches left.
 the safety aid is still in progress , i am having a few issues also but it would be resolved soon.
+
+DEC 17
