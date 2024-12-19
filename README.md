@@ -69,9 +69,10 @@ Chat app phase1 is almost done , just  a few touches left.
 the safety aid is still in progress , i am having a few issues also but it would be resolved soon.
 
 DEC 17
-New day , ar;y morning dose!
+New day , another morning dose!
 i have made another UI  update on the chat app , i will be leaving the chat app for today and focus on the SAFETY AID project.
 my front-end is not displaying so lets still and solve that and move on from there(lets see how it goes) 
 
 DEC 19
 The past few days this week as been a bit shakey but , its the same grind and new day, soo lets gooo!.
+Time for some morning dose of code.
