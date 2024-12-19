@@ -74,3 +74,4 @@ i have made another UI  update on the chat app , i will be leaving the chat app 
 my front-end is not displaying so lets still and solve that and move on from there(lets see how it goes) 
 
 DEC 19
+The past few days this week as been a bit shakey but , its the same grind and new day, soo lets gooo!.
