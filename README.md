@@ -77,3 +77,6 @@ DEC 19
 The past few days this week as been a bit shakey but , its the same grind and new day, soo lets gooo!.
 Time for some morning dose of code.
 i will start by practing a few things on REACT then move to resolving the issue with the safety aid project.
+
+DEC 20
+
