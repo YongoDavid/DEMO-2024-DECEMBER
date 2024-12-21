@@ -79,4 +79,4 @@ Time for some morning dose of code.
 i will start by practing a few things on REACT then move to resolving the issue with the safety aid project.
 
 DEC 20
-NNeew day , same grind.
+New day , same grind.
