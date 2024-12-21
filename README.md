@@ -83,3 +83,4 @@ New day , same grind.
 
 DEC 21
 Another day , another mornning  dose.
+Still have issues uploading my drop-box project because of the Large file thing , but i am still trying to resolve this issue
