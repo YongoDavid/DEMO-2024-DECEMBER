@@ -84,3 +84,6 @@ New day , same grind.
 DEC 21
 Another day , another mornning  dose.
 Still have issues uploading my drop-box project because of the Large file thing , but i am still trying to resolve this issue
+
+DEC 22
+Sunday chill day , but lets put in some early mornning dose.
