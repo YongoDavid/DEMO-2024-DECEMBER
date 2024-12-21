@@ -80,3 +80,5 @@ i will start by practing a few things on REACT then move to resolving the issue 
 
 DEC 20
 New day , same grind.
+
+DEC 21
