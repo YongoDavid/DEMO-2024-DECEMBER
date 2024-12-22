@@ -89,3 +89,4 @@ DEC 22
 Sunday chill day , but lets put in some early mornning dose.
 
 DEC 23
+New week , same grind!
