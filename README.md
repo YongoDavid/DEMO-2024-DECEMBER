@@ -87,3 +87,5 @@ Still have issues uploading my drop-box project because of the Large file thing 
 
 DEC 22
 Sunday chill day , but lets put in some early mornning dose.
+
+DEC 23
