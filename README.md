@@ -93,4 +93,4 @@ New week , same grind!
 Amazing year soo far , december is about to round up , but lets keep putting in the work.
 
 DEC 24
-
+New Day , same grind! , its time for some morning dose.
