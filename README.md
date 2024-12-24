@@ -91,3 +91,6 @@ Sunday chill day , but lets put in some early mornning dose.
 DEC 23
 New week , same grind!
 Amazing year soo far , december is about to round up , but lets keep putting in the work.
+
+DEC 24
+
