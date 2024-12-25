@@ -97,3 +97,5 @@ New Day , same grind! , its time for some morning dose.
 i still have not been able to resolve the dropbox issues , but lets try again and after i will move to the mobile design for the Chat application
 i want to add two more projects to my portfolio before the year runs out and then redesign my portfolio.
 So lets see how it goes.
+
+DEC 25
