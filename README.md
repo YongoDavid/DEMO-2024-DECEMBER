@@ -100,3 +100,4 @@ So lets see how it goes.
 
 DEC 25
 Christmas dayy , same grind! putting in some early morning dose.
+i have been able to push the drop-box project , i have to create the project again then updating each file , i still have some error to fix before the application has been fully set up.
