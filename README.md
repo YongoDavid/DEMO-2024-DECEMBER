@@ -105,4 +105,4 @@ for the Chatapp i am done with the login and signup page for the mobile , now we
 
 DEC 26
 New day same grind!
-i have been able to completed the responsice UI for the chatapplication.
+i have been able to complete the responsive UI for some pages of the chatapplication.
