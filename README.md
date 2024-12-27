@@ -107,3 +107,5 @@ DEC 26
 New day same grind!
 i have been able to complete the responsive UI for some pages of the chatapplication.
 There are a few more corrections to make and the application will be good to go on my portfoilio.
+
+DEC 27
