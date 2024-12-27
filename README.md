@@ -111,3 +111,5 @@ There are a few more corrections to make and the application will be good to go 
 DEC 27
 Another day , same grind , the grind dont stop.
 The chatapplication looks good soo far, i will just update a few things.
+The Dop-box project has started up but i need to redo the backend using firebase so lets do that now.
+
