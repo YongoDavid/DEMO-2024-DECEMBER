@@ -109,4 +109,5 @@ i have been able to complete the responsive UI for some pages of the chatapplica
 There are a few more corrections to make and the application will be good to go on my portfoilio.
 
 DEC 27
-Another day , same grind , thhe grind dont stop.
+Another day , same grind , the grind dont stop.
+The chatapplication looks good soo far, i will just update a few things.
