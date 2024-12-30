@@ -116,3 +116,6 @@ The Dop-box project has started up but i need to redo the backend using firebase
 DEC 28
 New day , same grind!!
 the network has been shakey for a few days and not letting me work easily , but we still have to get things done.
+
+DEC 29
+
