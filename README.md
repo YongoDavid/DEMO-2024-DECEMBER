@@ -118,4 +118,6 @@ New day , same grind!!
 the network has been shakey for a few days and not letting me work easily , but we still have to get things done.
 
 DEC 29
-No update for the past few days buut we are backk now , its a new and we doing the same grind!! let gooo
+No update for the past few days buut we are backk now , its a new and we doing the same grind!! let gooo.
+The year is coming to an end this wee, soo lets see how everything goes!.
+
