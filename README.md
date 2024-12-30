@@ -118,6 +118,6 @@ New day , same grind!!
 the network has been shakey for a few days and not letting me work easily , but we still have to get things done.
 
 DEC 29
-No update for the past few days buut we are backk now , its a new and we doing the same grind!! let gooo.
-The year is coming to an end this wee, soo lets see how everything goes!.
-
+No update for the past few days but we are back now , its a new week and we are on the same grind!! lets gooo.
+The year is coming to an end soo lets see how everything goes!.
+i am still having issues redoing the back-end for firebase.
