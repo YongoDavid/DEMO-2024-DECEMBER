@@ -124,3 +124,4 @@ The year is coming to an end soo lets see how everything goes!.
 i am still having issues redoing the back-end for firebase.
 
 DEC 31
+last day on the year today , it has an amazing year sooo far.
