@@ -126,3 +126,4 @@ i am still having issues redoing the back-end for firebase.
 DEC 31
 last day on the year today , it has an amazing year sooo far.
 Still have projects i am working on, the grind doesnt stop, there are new levels to unlock.
+i will continue from where i stopped this year next year soooo let goooo.
